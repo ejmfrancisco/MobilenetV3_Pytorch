@@ -16,7 +16,7 @@ from torch.optim.lr_scheduler import ReduceLROnPlateau
 from PIL import Image
 
 # Define paths
-dataset_path = "/media/tricubics/big/dlwpdl/dataset_collection/02_classification_datasets/02_for_training/v4"
+dataset_path = "<Your dataset path.>"
 
 # Define transformations with data augmentation for training and standard transforms for validation/test
 train_transforms = transforms.Compose([
