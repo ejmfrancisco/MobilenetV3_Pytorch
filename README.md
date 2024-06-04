@@ -5,6 +5,8 @@ Training classifier model + inference using Pytorch.
 2. Run the 'train.py' for training after setting up dataset location.
 3. Test inference
 
-I noticed that results may vary when tested in different environment.
+Results may vary when tested in different environment.
+
+I referred this code based on the github implementation: https://github.com/kuan-wang/pytorch-mobilenet-v3
 
 ###### Author: *EJ CALIWAG*. Self-written code for training a classification model with MobilenetV3.
